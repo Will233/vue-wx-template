@@ -1,0 +1,87 @@
+
+html,
+body,
+div,
+img,
+p,
+span {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+input[type=button],
+button {
+  -webkit-appearance: none;
+  outline: none;
+  border-radius: 0;
+}
+
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+input[type="number"] {
+  -webkit-appearance: none;
+  textarea {
+    -webkit-appearance: none;
+  }
+}
+
+.checked {
+  color: #00cc3e;
+}
+
+.unchecked {
+  color: #ccc;
+}
+
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+/*
+@media all and (max-width: 600px) {
+  html {
+    font-size: 37.5px;
+  }
+}
+
+@media all and (max-width: 540px) {
+  html {
+    font-size: 33.75px;
+  }
+}
+
+@media all and (max-width: 480px) {
+  html {
+    font-size: 30px;
+  }
+}
+
+@media all and (max-width: 420px) {
+  html {
+    font-size: 26.25px;
+  }
+}
+
+@media all and (max-width: 384px) {
+  html {
+    font-size: 24px;
+  }
+}
+
+@media all and (max-width: 360px) {
+  html {
+    font-size: 22.5px;
+  }
+}
+
+@media all and (max-width: 320px) {
+  html {
+    font-size: 20px;
+  }
+}*/
